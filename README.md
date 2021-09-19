@@ -1,4 +1,5 @@
-
+Angular Production - Build, Test & Deploy a Full Stack Application using Nx - Part I
+https://www.youtube.com/watch?v=j38ufd8Q86w
 
 # AngularProduction
 
